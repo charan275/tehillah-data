@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 7,
- "published": "2026-11-17T23:18:11",
+ "version": 8,
+ "published": "2026-11-17T23:38:45",
  "changes": [
   {
    "seq": 2,
@@ -112,6 +112,40 @@
    "time": "2026-11-17T22:50:34",
    "language": "English",
    "replaced_by": "en-wtc-125"
+  },
+  {
+   "seq": 8,
+   "type": "edit",
+   "id": "telugu-cl-devaa-yehovaa",
+   "time": "2026-11-17T23:38:36",
+   "song": {
+    "title": "దేవా యెహోవా (Devaa Yehovaa)",
+    "artist": "రవీందర్ వొట్టెపు (Ravinder Vottepu)",
+    "year": "2026",
+    "musicalKey": "Key C",
+    "licenseStatus": "User contributed",
+    "category": "Praise",
+    "language": "Telugu",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wlSWPcDruHE",
+    "verses": [
+     {
+      "verse_order": 1,
+      "verse_label": "పల్లవి",
+      "content": "దేవా… యెహోవా…\nనాకు చాలిన వాడా (4)"
+     },
+     {
+      "verse_order": 2,
+      "verse_label": "చరణం 1",
+      "content": "నడి సంద్రమున తుఫాను ఎగసినప్పుడు\nనీవుంటివి యేసయ్యా\nఒక్క మాటతో తుఫాను ఆగెను\nనీ మాట చాలును యేసయ్యా (2)\nనా జీవితంలో తుఫానులు ఆపివేయుమా\nనీ మాట చేత నన్ను నీవు లేవనెత్తుమా (2)          ||దేవా||"
+     },
+     {
+      "verse_order": 3,
+      "verse_label": "చరణం 2",
+      "content": "అడవిలోన మన్నా కురిపించి\nనీ బిడ్డగ పోషించితివి\nబండ నుండి నీటిని తెచ్చి\nదాహమును తీర్చావయ్యా (2)\nనీ సమృద్ధిలో నుండి దయచేయుమా\nనీ మహిమార్థమై నన్ను లేవనెత్తుమా (2)          ||దేవా||"
+     }
+    ],
+    "id": "telugu-cl-devaa-yehovaa"
+   }
   }
  ]
 }
