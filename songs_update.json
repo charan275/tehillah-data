@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 2,
- "published": "2026-11-17T18:45:29",
+ "version": 3,
+ "published": "2026-11-17T18:48:55",
  "changes": [
   {
    "seq": 2,
@@ -41,6 +41,14 @@
     ],
     "id": "admin-te-0001"
    }
+  },
+  {
+   "seq": 3,
+   "type": "remove",
+   "id": "sda-tisalmosttimeforthelordtocome",
+   "time": "2026-11-17T18:48:41",
+   "language": "English",
+   "replaced_by": "ih-sdah-0212"
   }
  ]
 }
