@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 3,
- "published": "2026-11-17T18:48:55",
+ "version": 4,
+ "published": "2026-11-17T19:23:24",
  "changes": [
   {
    "seq": 2,
@@ -49,6 +49,45 @@
    "time": "2026-11-17T18:48:41",
    "language": "English",
    "replaced_by": "ih-sdah-0212"
+  },
+  {
+   "seq": 4,
+   "type": "edit",
+   "id": "telugu-akk-737",
+   "time": "2026-11-17T19:23:05",
+   "song": {
+    "title": "737. సాములోరే బంజార భాయీరే (Saamaloarae Banjaara Bhaayeerae)",
+    "artist": "Andhra Christian Hymnal",
+    "year": "Traditional",
+    "musicalKey": "Key C",
+    "licenseStatus": "Public domain",
+    "category": "Hymns",
+    "language": "Telugu",
+    "youtubeUrl": "https://www.youtube.com/results?search_query=Saamaloarae%20Banjaara%20Bhaayeerae%20Telugu%20Christian%20Hymn",
+    "verses": [
+     {
+      "verse_order": 1,
+      "verse_label": "పల్లవి",
+      "content": "సామలోరే బంజార భాయీరే – సే జాగ అపణేన ఆజికేఛ\nయేసు సేన మళోజెర వాసు – ఖత్ర ఖత్రాయికో\nఖుశీకేఛ"
+     },
+     {
+      "verse_order": 2,
+      "verse_label": "చరణం 1",
+      "content": "ఖుశీఫి అపణె భడ్న్ జమాతో శాంతి ప్రభు అపణనే చలావజన\nగట్లా మారాయి – రొమ్సారోమారాయి  (2)\nడిల్లీ పెఘే కాడుచూ॥సామ॥"
+     },
+     {
+      "verse_order": 3,
+      "verse_label": "చరణం 2",
+      "content": "ఖుళీతి అపణ నికళా జనా - శాంతితీ అపన్ గర్ది మారా జానా గ\nరొమ్సాడు రొమ్సాడే – బేమారాయి బేమారాయి॥2॥"
+     },
+     {
+      "verse_order": 4,
+      "verse_label": "చరణం 3",
+      "content": "వేల భావెటిమా దేవేర్ వెలేర్నై – చలియావుంచూ ప్రభుర్\nప్రేమేర్ వాసు – రొమ్సాడు రొమ్సాడ ధేపె మేలన్ హత్\nధెపడ్ ధెపడన్ రమ్మచూ రమ్ముచూ॥సామ॥"
+     }
+    ],
+    "id": "telugu-akk-737"
+   }
   }
  ]
 }
