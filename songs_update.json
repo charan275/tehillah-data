@@ -1,7 +1,7 @@
 {
  "format": 1,
- "version": 4,
- "published": "2026-11-17T19:23:24",
+ "version": 5,
+ "published": "2026-11-17T22:49:56",
  "changes": [
   {
    "seq": 2,
@@ -88,6 +88,14 @@
     ],
     "id": "telugu-akk-737"
    }
+  },
+  {
+   "seq": 5,
+   "type": "remove",
+   "id": "en-wtc-407",
+   "time": "2026-11-17T22:49:27",
+   "language": "English",
+   "replaced_by": "en-wtc-141"
   }
  ]
 }
