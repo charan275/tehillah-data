@@ -1,20 +1,20 @@
 {
  "format": 1,
- "version": 1,
- "published": "2026-11-17T17:24:26",
+ "version": 2,
+ "published": "2026-11-17T18:45:29",
  "changes": [
   {
-   "seq": 1,
-   "type": "add",
+   "seq": 2,
+   "type": "edit",
    "id": "admin-te-0001",
-   "time": "2026-11-17T17:13:57",
+   "time": "2026-11-17T18:45:18",
    "song": {
     "title": "వందనం త్రియేకుడా (Vandanam Triyekuda)",
     "artist": "Artists / Composers: Bro. Joe P. Madhu & Sis. Veena P. Jessy (Calvary Love of Jesus Ministries)",
     "year": "",
     "musicalKey": "Key C",
     "licenseStatus": "User contributed",
-    "category": "Praise",
+    "category": "Worship",
     "language": "Telugu",
     "youtubeUrl": "https://youtu.be/nep9aO1oVUo?si=1r1FMWLK8szr6aGQ",
     "verses": [
