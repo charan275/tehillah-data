@@ -1,0 +1,46 @@
+{
+ "format": 1,
+ "version": 1,
+ "published": "2026-11-17T17:24:26",
+ "changes": [
+  {
+   "seq": 1,
+   "type": "add",
+   "id": "admin-te-0001",
+   "time": "2026-11-17T17:13:57",
+   "song": {
+    "title": "వందనం త్రియేకుడా (Vandanam Triyekuda)",
+    "artist": "Artists / Composers: Bro. Joe P. Madhu & Sis. Veena P. Jessy (Calvary Love of Jesus Ministries)",
+    "year": "",
+    "musicalKey": "Key C",
+    "licenseStatus": "User contributed",
+    "category": "Praise",
+    "language": "Telugu",
+    "youtubeUrl": "https://youtu.be/nep9aO1oVUo?si=1r1FMWLK8szr6aGQ",
+    "verses": [
+     {
+      "verse_order": 1,
+      "verse_label": "పల్లవి",
+      "content": "వందనం త్రియేకుడా – ఘన మహిమ నీకెగా (2)\nఏ పాటి వాడను యేసయ్యా – నన్ను కోరుకొంటివే\nఏ పాటి దానను యేసయ్యా – నన్ను కోరుకొంటివే\n(||వందనం||)"
+     },
+     {
+      "verse_order": 2,
+      "verse_label": "చరణం 1",
+      "content": "ఈవులెన్నెన్నో దయచేసితివి\nనీ స్నేహమే నాకు స్థిరపరచితివి (2)\nనీ పాద సేవ చేయుటకన్నా విలువైన భాగ్యం లేదు నాకూ (2)\n(||వందనం||)"
+     },
+     {
+      "verse_order": 3,
+      "verse_label": "చరణం 2",
+      "content": "అవసరతలు ఏవైన తీర్చెడి యెహోవా యిరే నీవే (2)\nనా కోరికంతా ఏ క్షణమైనా నీవేగా నా యేసూ (2) ఆమెన్\n(||వందనం||)"
+     },
+     {
+      "verse_order": 4,
+      "verse_label": "చరణం 3",
+      "content": "మా సర్వమంతా నీవేనయ్యా – నీకేగా అంకితం చేసితిమీ (2)\nవేచియున్నాము సెలవిమ్ము దేవా – నీ ఆజ్ఞ పాటించెదమూ (2) స్తోత్రం\n(||వందనం||)"
+     }
+    ],
+    "id": "admin-te-0001"
+   }
+  }
+ ]
+}
